@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Norhaida</h1>
 <h3 align="center">A computer graphics (CG) and extended reality (XR) enthusiast.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annhaida&label=Profile%20views&color=0e75b6&style=flat" alt="annhaida" /> </p>
+
 - 🔭 I’m currently working on **computer graphics and heritage preservation.**
+
+- 👯 I’m looking to collaborate on **related projects (CG and XR (VR/AR) application/research).**
+
+- 💬 Ask me about **Computer Graphics-related topics.**
 
 - 📫 How to reach me **haida .at. utm.my**
 
